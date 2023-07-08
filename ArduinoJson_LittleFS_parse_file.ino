@@ -31,7 +31,7 @@ void setup() {
      clear the data folder and then reupload using littlefs
      data upload. In my tests, you can save
      a JSON object in a text file.
-     ex: {"data":"hello world"}
+     ex: {"data":"hello world","double":345.435346}
   */
   File file = LittleFS.open("/json_text.txt", "r");
   if (!file) {
