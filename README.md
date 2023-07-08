@@ -8,3 +8,5 @@ from here:
 
 Download the .zip file and open the .ino file
 The data folder has to be in the same directory of the .ino file
+
+- you may want to change delay(1); to delayMicroseconds(10);
