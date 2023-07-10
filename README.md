@@ -1,7 +1,9 @@
 # ArduinoJson_LittleFS_parse_json
 Code blocks that use ArduinoJson and LittleFS to parse JSON objects saved as a .txt file
 
-Follow instructions on how to download the tool and how its file structure is supposed to be 
+A tools folder with the correct file structure and names is uploaded in this repo as well, you can download the folder and put it into the Arduino folder to use it immediately, it has the very latest tools for esp32 and esp8266 at the time of writing.
+
+To get the latest version of the tools, follow instructions on how to download the tool and replace the .jar file in the respective tools folder 
 from here:  
 - For ESP8266: https://github.com/earlephilhower/arduino-esp8266littlefs-plugin
 - For ESP32:   https://github.com/lorol/arduino-esp32littlefs-plugin
